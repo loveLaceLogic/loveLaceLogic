@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on gameDevelopment
 - 📫 How to reach me kristinachaleunsak@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: pinapples goes on tacos! 
+- ⚡ Fun fact: pineapples goes on tacos! 
 
 <!---
 Hi! I’m loveLaceLogic — a computer science student at Louisiana State University of Alexandria passionate about solving problems through code and creating efficient, elegant solutions. Inspired by Ada Lovelace, the world’s first computer programmer, I believe in the power of logic, creativity, and innovation.
